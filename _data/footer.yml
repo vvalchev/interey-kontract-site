@@ -1,19 +1,19 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
-    url: '#'
+#  - title: Twitter
+#    icon: fa-twitter
+#    url: '#'
   - title: Facebook
     icon: fa-facebook
     url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
+#  - title: Instagram
+#    icon: fa-instagram
+#    url: '#'
+#  - title: Dribbble
+#    icon: fa-dribbble
+#    url: '#'
   - title: Email
     icon: fa-envelope-o
-    url: '#'
+    url: 'mailto:interey_kontract@abv.bg'
 copyright: '&copy; Spectral'
 links:
   - text: Made with Stackbit

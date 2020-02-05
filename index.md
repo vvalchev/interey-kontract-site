@@ -1,31 +1,25 @@
 ---
-title: Home
+title: Начало
 banner:
-  title: Spectral
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  title: Интерей Контракт
+  subtitle: Нашата мисия е вашият растеж!
   actions:
-    - label: Activate
-      url: /generic
+    - label: Контакти
+      url: /contacts
       is_scrolly: false
       is_primary: true
   bottom_link:
-    label: Learn More
+    label: Научете повече ...
     url: '#one'
     has_arrow: true
     is_scrolly: true
 sections:
-  - title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+  - title: Изберете нас!
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+      Ние ще ви предоставим професионални услуги с високо качество.
+      Предлагаме ви партньорство и индивидуален подход, съобразен с вашия бизнес, очаквания и динамика.
+      Ще ви дадем независими и обективни съвети!
+      Може да разчитате на нашата коректност и конфиденциалност.
     section_id: one
     background_style: style1
     feature_icons:
@@ -40,94 +34,100 @@ sections:
         style: style3
     type: icons
     component: icons.html
-  - title: Spotlights Section
+  - title: Нашите основни услуги
     section_id: two
     background_style: style2
     spotlights:
-      - title: |-
-          Magna primis lobortis
-          sed ullamcorper
+      - title: Счетоводно-финансови услуги
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          - Текущо счетоводно отчитане.
+
+          - Обработка на документи.
+
+          - ТРЗ и личен състав.
+
+          - Изготвяне на справки и отчети на фирмата по желание на клиента.
+
+          - Изготвяне на годишни финансови отчети.
+
+          - Изготвяне и подаване на годишни декларации по ЗКПО и ЗДДФЛ.
+
+          - Изготвяне и подаване на годишни статистически форми за Националния статистически институт.
+
+          - Изготвяне и подаване на справки декларации и дневници по ЗДДС.
+
+          - Обработка на данните със счетоводен продукт и възможност за електронна комуникация и предоставяне на информация.
         home_img_path: images/pic01.jpg
-      - title: |-
-          Tortor dolore feugiat
-          elementum magna
+      - title: Данъчно-осигурителни услуги
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Извършване на консултации във връзка с данъчно-осигурителното законодателство:
+
+          - Еднократни или абонаментни консултации - разясняване на казуси, планиране на дейности.
+
+          - Данъчна защита и представителство - изготвяне на възражения по ревизинни доклади, изготвяне на жалби по ревизионни актове.
+
+          - **Съдействие при извършване на проверки и ревизии на физически лица, включващи изготвяне на паричен поток, определене на начални и крайни салда за проверяваните периоди.**
         home_img_path: images/pic02.jpg
-      - title: |-
-          Augue eleifend aliquet
-          sed condimentum
+      - title: Разработка и управление на проекти
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Разработка и управление на проекти по различни национални, европейски и международни програми.
         home_img_path: images/pic03.jpg
     type: spotlights
     component: spotlights.html
-  - title: Accumsan mus tortor nunc aliquet
+  - title: Ние работим за Вас!
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+      Освен основните услуги, нашата компания разполага експерти в
+      различни сфери, които с готовност ще се отзоват, когато се
+      нуждаете от помощ.
     section_id: three
     background_style: style3
     features:
-      - title: Arcu accumsan
+      - title: Екип
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Разполагаме с отлични специалисти, които ще отговорят на всичките ви въпроси.
         icon: fa-paper-plane-o
-      - title: Ac Augue Eget
+      - title: Опит
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Използваме най-добрите счетоводни практики.
         icon: fa-laptop
-      - title: Mus Scelerisque
+      - title: Внимание
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Нашият екип следи всички актуални изменения в нормативната уредба, касаещи националната финансова и фискална политика.
         icon: fa-code
-      - title: Mauris Imperdiet
+      - title: Качество
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Услугите,които предоставяме, са с високо качество и съобразени с МСС, НСС  и действащите в момента данъчно и осигурително законодателство.
         icon: fa-headphones
-      - title: Aenean Primis
+      - title: Евро-проекти
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Във връзка с възможностите за еврофинансиране, условията за кандидатстване, изготвяне и управление на проекти, разполагаме с подбран кръг от консултанти - наши служители и асоциирани експерти.
         icon: fa-heart-o
-      - title: Tortor Ut
+      - title: Бързина
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Ние сме готови да застанем до вас, в момента, в който се нуждаете.
         icon: fa-flag-o
     type: features
     component: features.html
-  - title: Arcue ut vel commodo
-    text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
+  - title: Свържете се с нас
+#    text: >-
+#      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
+#      eleifend fringilla.
     section_id: cta
     background_style: style4
     actions:
-      - label: Activate
-        url: /generic
+      - label: Контакти
+        url: /contacts
         is_primary: true
         is_scrolly: false
-      - label: Learn More
-        url: /generic
-        is_primary: false
-        is_scrolly: false
+#      - label: Learn More
+#        url: /generic
+#        is_primary: false
+#        is_scrolly: false
     type: cta
     component: cta.html
 menus:
   main:
-    title: Home
+    title: Начало
     weight: 1
 layout: home
 ---

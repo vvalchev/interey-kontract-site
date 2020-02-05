@@ -1,11 +1,11 @@
-title: Spectral
+title: Интерей Контракт
 baseurl: /
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
 landing_template: home
-palette: blue
+palette: green
 palettes:
   blue:
     sass:

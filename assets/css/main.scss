@@ -912,6 +912,26 @@ $palette: (
 				padding-right: 0 !important;
 			}
 		}
+    
+    &.bulleted {
+      li {
+        padding-left: 2em;
+        position: relative;
+        display: block;
+
+        &.icon {
+          &:before {
+            left: 0;
+            position: absolute;
+            top: 0;
+          }
+        }
+
+        > :last-child {
+          margin-bottom: (_size(element-margin) * 0.5);
+        }
+      }
+    }
 
 		&.major {
 			padding: 1em 0;
