@@ -1,4 +1,26 @@
 title: Интерей Контракт
+# --- begin seo
+# see also
+#  - https://github.com/jekyll/jekyll-seo-tag
+#  - https://gregberge.com/blog/gatsby-seo,
+#  - https://search.google.com/search-console/about
+#  - https://toolbox.seositecheckup.com/users
+description: >-
+  Интерей Контракт e счетоводна фирма, чиято цел вашият растеж. Предлага
+  счетоводни, данъчни и финансови услуги и консултации, както и помощ при
+  управление на европейски проекти; Защита при ревизии и данъчни проверки.
+  Ваш партньор в обработката на ТРЗ, ЗКПО, ЗДДФЛ, ЗДДС както и посредник при
+  работата с НОИ и НАП.
+url: www.accounting24.bg
+canonical_url: "https://www.accounting24.bg/"
+lang: bg_BG
+#logo: /assets/logo.png
+#social:
+#  name: Interey Kontract
+#  links:
+#    - https://www.facebook.com/interey.kontract
+#    - https://www.linkedin.com/in/interey.kontract
+# --- end seo
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -29,6 +51,8 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
+  - jekyll-sitemap
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
