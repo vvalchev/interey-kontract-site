@@ -44,7 +44,7 @@ layout: page
                     (359) 895022086
                   </p>
               </li>
-              <li class="icon fa-phone">
+              <li class="icon fa-envelope-o">
                   <h3>Email</h3>
                   <p>
                     <a href="mailto:interey_kontract@abv.bg">interey_kontract@abv.bg</a>
